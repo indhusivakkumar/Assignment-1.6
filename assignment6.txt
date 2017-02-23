@@ -1,0 +1,43 @@
+1.
+import java.util.*;
+class acad
+{
+public static void main(String[] args)
+{
+int ii=2;
+int kk=4;
+System.out.println(ii+kk);
+}
+}
+
+
+2.
+import java.util.*;
+class acad
+{
+public static void main(String[] args)
+{
+Scanner sc=new Scanner(System.in);
+int nm=sc.nextInt();
+int mn=sc.nextInt();
+System.out.println(nm+mn);
+}
+}
+
+3.
+import java.util.*;
+class acad
+{
+ public static void sum()
+{
+Scanner sc=new Scanner(System.in);
+int ii=sc.nextInt();
+int ki=sc.nextInt();
+System.out.println(ii+ki);
+}
+public static void main(String[] args)
+{
+
+sum();
+}
+}
